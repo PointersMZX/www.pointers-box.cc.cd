@@ -4,7 +4,6 @@ published: 2026-10-25
 category: "Pointers-BOX_v2.4.0"
 tags:
   - A
-pinned: true
 comment: false
 description: "Pointers-BOX v2.4.0 正式发布：资源一键分享，胶囊液态玻璃新视觉，数据传输更安全。"
 draft: false
@@ -24,12 +23,6 @@ Pointers-BOX v2.4.0 已正式发布，这一版在分享、视觉与数据安全
 
 ## 下载
 
-- 官网直装：
-  - Windows 常规版安装程序（Win10 / Win11）：[Pointers-BOX_Setup_v2.4.0 x64.exe](https://api.pointers-box.cc.cd/Download/Pointers-BOX/Pointers-BOX_Setup_v2.4.0%20x64.exe)
-  - Windows 7 兼容版安装程序：[Pointers-BOX_Setup_v2.4.0_Windows7 x64.exe](https://api.pointers-box.cc.cd/Download/Pointers-BOX/Pointers-BOX_Setup_v2.4.0_Windows7%20x64.exe)
-  - Windows 常规版便携版（免安装，解压即用）：[Pointers-BOX_v2.4.0_x64_Portable.7z](https://api.pointers-box.cc.cd/Download/Pointers-BOX/Pointers-BOX_v2.4.0_x64_Portable.7z)
-  - Windows 7 便携版（免安装，解压即用）：[Pointers-BOX_v2.4.0_win7_Portable.7z](https://api.pointers-box.cc.cd/Download/Pointers-BOX/Pointers-BOX_v2.4.0_win7_Portable.7z)
-  - 安卓版：[Pointers-BOX_v2.4.0.apk](https://api.pointers-box.cc.cd/Download/Pointers-BOX/Pointers-BOX_v2.4.0.apk)
 - GitHub：<https://github.com/PointersMZX/Pointers-BOX/releases>
 - Gitee：<https://gitee.com/PointersMZX/Pointers-BOX/releases>
 - 蓝奏云：<https://pointers.lanzoum.com/b01d77ya8h>
