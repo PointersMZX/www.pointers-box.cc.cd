@@ -24,8 +24,6 @@ Pointers-BOX v2.4.0 已正式发布，这一版在分享、视觉与数据安全
 ## 下载
 
 - GitHub：<https://github.com/PointersMZX/Pointers-BOX/releases>
-- Gitee：<https://gitee.com/PointersMZX/Pointers-BOX/releases>
-- 蓝奏云：<https://pointers.lanzoum.com/b01d77ya8h>
 
 ## 提醒
 
