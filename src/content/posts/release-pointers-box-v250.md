@@ -4,7 +4,7 @@ published: 2026-11-08
 category: "Pointers-BOX_v2.5.0"
 tags:
   - A
-pinned: true
+pinned: false
 comment: false
 description: "Pointers-BOX v2.5.0 正式发布：全新液态玻璃界面，玻璃会随鼠标流动发光。"
 draft: false
