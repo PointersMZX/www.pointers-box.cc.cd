@@ -35,7 +35,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		icon: "material-symbols:person",
 	});
 
-	// 下载（外部链接，子菜单为三个渠道）
+	// 下载（外部链接，子菜单为两个渠道）
 	links.push({
 		name: "下载",
 		url: "#",
@@ -50,14 +50,8 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:github",
 			},
 			{
-				name: "Gitee",
-				url: "https://gitee.com/PointersMZX/Pointers-BOX/releases",
-				external: true,
-				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "蓝奏云",
-				url: "https://pointers.lanzoum.com/b01d77ya8h",
+				name: "云盘",
+				url: "https://share.feijipan.com/s/2qzZO6qy",
 				external: true,
 				icon: "material-symbols:cloud",
 			},

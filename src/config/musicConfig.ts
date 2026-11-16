@@ -41,7 +41,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	},
 
 	// 本地音乐配置（当 mode 为 'local' 时使用）
-	// 支持三首本地歌曲，封面统一使用 Pointers-BOX 图标，均无歌词
+	// 支持四首本地歌曲，封面统一使用 Pointers-BOX 图标，均无歌词
 	local: {
 		playlist: [
 			{
@@ -62,6 +62,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				name: "Pointers-BOX主题曲-万鬼同行",
 				artist: "Pointers-BOX",
 				url: encodeURI("/assets/music/无人区玫瑰 - 一颗狼星.mp3"),
+				cover: "/assets/music/cover/pointers-box.png",
+				lrc: "",
+			},
+			{
+				name: "Pointers-BOX主题曲-芙蓉星叹",
+				artist: "Pointers-BOX",
+				url: encodeURI("/assets/music/怎叹 - 顾子欣.mp3"),
 				cover: "/assets/music/cover/pointers-box.png",
 				lrc: "",
 			},
