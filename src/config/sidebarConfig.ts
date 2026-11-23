@@ -78,7 +78,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件专属配置（广告内容直接在此配置）
 			specificConfig: {
 				ad: {
-					title: "公告",
+					title: "Pointers-BOX公告",
 					content:
 						"所有资源由作者亲自测试，无任何风险且完全免费，请放心使用，祝大家资源自由，天天开心。",
 					link: {
