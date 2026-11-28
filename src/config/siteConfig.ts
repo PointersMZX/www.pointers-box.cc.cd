@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	title: "Pointers-BOX",
 
 	// 站点副标题
-	subtitle: "Pointers-BOX官方网站",
+	subtitle: "官方网站",
 
 	// 站点 URL
 	site_url: "https://www.pointers-box.cc.cd",
